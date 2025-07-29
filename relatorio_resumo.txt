@@ -1,0 +1,10 @@
+RELATÓRIO DE CLASSIFICAÇÃO DE PRODUTOS
+==================================================
+
+Total de produtos processados: 20
+Score médio de similaridade: 0.6181
+
+DISTRIBUIÇÃO DE QUALIDADE:
+Alta similaridade (≥80%): 1 produtos
+Média similaridade (≥60%): 10 produtos
+Baixa similaridade (<60%): 10 produtos
